@@ -3,13 +3,6 @@
   <img src="./img/netflix-logo.png" height="100px" alt="Netflix Clone"/>
 </h1>
 
- ![](https://img.shields.io/badge/autor-Gabriel%20Assana-brightgreen)
- ![](https://img.shields.io/badge/Front--End-HTML5-brightgreen)
- ![](https://img.shields.io/badge/Front--End-CSS-brightgreen)
- ![](https://img.shields.io/badge/Front--End-JavaScript-blue)
- ![](https://img.shields.io/badge/Front--End-jQuery-blue)
-
-
 <h3 align="center">Desafio do Bootcamp HTML Web Developer da Digital Innovation One.</h3>
 
 <p align="center">O desafio tem como proposta replicar a pagina de seleção de filmes e series da Netflix.
