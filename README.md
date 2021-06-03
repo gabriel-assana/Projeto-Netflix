@@ -18,9 +18,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Jquery]()
 - [Owl Carousel]()
 
-<h4> 
-	🚧  Responsivo 🚀 Em construção...  🚧
-</h4>
 
 <h1 align="center">
   <img src="./img/gif-pagina.gif"/>
