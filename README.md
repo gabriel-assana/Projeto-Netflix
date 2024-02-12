@@ -2,7 +2,6 @@
 <h1 align="center">
   <img src="./img/netflix-logo.png" height="100px" alt="Netflix Clone"/>
 </h1>
-
 <h3 align="center">Desafio do Bootcamp HTML Web Developer da Digital Innovation One.</h3>
 
 <p align="center">O desafio tem como proposta replicar a pagina de seleção de filmes e series da Netflix.
